@@ -45,7 +45,7 @@ For the best experience working with Jupyter notebooks and Python files, install
 
 ### Step 3: Set Up Python Environment
 
-1. Open the integrated terminal in VSCode: `Ctrl+`` (backtick) or `Terminal > New Terminal`
+1. Open the integrated terminal in VSCode: Press `Ctrl+\`` (Control and backtick key) or use menu `Terminal > New Terminal`
 2. Create a virtual environment (recommended):
    ```bash
    python -m venv venv
@@ -79,7 +79,7 @@ For the best experience working with Jupyter notebooks and Python files, install
 - **View Files**: Use the Explorer panel on the left (`Ctrl+Shift+E`)
 - **Search**: Use `Ctrl+Shift+F` to search across all files
 - **Source Control**: Use the Source Control panel (`Ctrl+Shift+G`) to commit and push changes
-- **Terminal**: Use the integrated terminal (`Ctrl+``) for command-line operations
+- **Terminal**: Use the integrated terminal (press `Ctrl+\`` or Control and backtick key) for command-line operations
 
 ### Recommended VSCode Settings for Jupyter
 
@@ -126,7 +126,7 @@ Add these to your VSCode settings (File > Preferences > Settings or `Ctrl+,`):
 ### Repository Contents
 
 - `Jupyter_Notebook (1).ipynb` - Main Jupyter notebook for IBM Data Science course
-- `IBM-CLASS FOLDER/` - Screenshots and images from the course exercises
+- `IBM-CLASS FOLDER/` - Course screenshots showing completed notebook exercises (PNG images)
 
 ## Getting Started with the Notebooks
 
